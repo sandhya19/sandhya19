@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sandhya19
-- 👀 I’m interested in exploring and developing code in AWS
+- 👀 I’m interested in developing code and exploring in AWS
 - 🌱 I’m currently learning AWS cdk and python.
 - 💞️ I’m looking to collaborate on building projects in python and AWS cdk
 - 📫 How to reach me 
